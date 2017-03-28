@@ -1,0 +1,32 @@
+{
+  "name": "ddenv",
+  "version": "0.1.0",
+  "description": "Debug Friendly Environment",
+  "main": "src/index.js",
+  "bin": "bin/ddenv",
+  "license": "MIT",
+  "repository": "Yoctol/ddenv",
+  "author": {
+    "name": "C.T. Lin",
+    "email": "chentsulin@gmail.com",
+    "url": "github.com/Yoctol/ddenv"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "devEngines": {
+    "node": ">=4",
+    "npm": ">=2"
+  },
+  "files": [
+    "src/",
+    "register.js"
+  ],
+  "keywords": [
+    "debug",
+    "format"
+  ],
+  "dependencies": {
+    "pretty-format": "^19.0.0"
+  }
+}
