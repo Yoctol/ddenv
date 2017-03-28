@@ -1,5 +1,8 @@
 # ddenv
 
+[![NPM version][npm-image]][npm-url]
+[![Dependency Status][david_img]][david_site]
+
 > Debug Friendly Environment
 
 
@@ -38,3 +41,8 @@ dump values and exit.
 ## License
 
 MIT © [Yoctol](https://github.com/Yoctol/ddenv)
+
+[npm-image]: https://badge.fury.io/js/ddenv.svg
+[npm-url]: https://npmjs.org/package/ddenv
+[david_img]: https://david-dm.org/Yoctol/ddenv.svg
+[david_site]: https://david-dm.org/Yoctol/ddenv
