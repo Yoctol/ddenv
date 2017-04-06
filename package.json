@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "Debug Friendly Environment",
   "main": "src/index.js",
-  "bin": "bin/ddenv",
   "license": "MIT",
   "repository": "Yoctol/ddenv",
   "author": {
